@@ -1,2 +1,2 @@
 # react-train
-learning react
+learning react from chai with code
